@@ -5,4 +5,6 @@ You need to download these two files and [MetaCubeX/mihomo](https://github.com/M
 
 MetaCubeX/mihomo download may vary depending on your computer configuration.
 
-Related：
+sponsor:
+
+Related：https://gitcode.com/helllo_gitcode/freenodeenvironment
